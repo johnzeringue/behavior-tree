@@ -1,0 +1,5 @@
+rootProject.name = "behavior-tree"
+
+include "api"
+include "core"
+include "test"
