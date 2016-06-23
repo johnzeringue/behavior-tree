@@ -1,5 +1,1 @@
-dependencies {
-    compile project(":api")
-
-    testCompile project(":test")
-}
+apply from: "build.gradle.kts"
